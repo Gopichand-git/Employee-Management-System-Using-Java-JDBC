@@ -18,7 +18,6 @@ The **Employee Management System** is designed to simplify HR and admin operatio
 ✔️ **Database Integration** – Uses **JDBC** with MySQL / Oracle  
 ✔️ **Search Functionality** – Fetch employee details by ID or name  
 ✔️ **Validation** – Ensures proper input before database insertion  
-✔️ **Console / GUI Support** – Can be extended to Swing or JavaFX  
 
 ---
 
